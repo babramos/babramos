@@ -22,17 +22,6 @@
 
 ---
 
-## 📁 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [🤖 BrunoAI – Chat com IA](https://python-chat-ai-2ikcejs9ejlw2ampquu23e.streamlit.app) | Interface web com integração à API da OpenAI usando Streamlit | Python, Streamlit, OpenAI API |
-| [🎧 Spotify Clone](https://projeto-spotify-2.onrender.com) | Interface baseada no Spotify, projeto de estudo de frontend | HTML, CSS, JS |
-| [🎯 Jogo do Número Secreto](https://github.com/babramos/O-Jogo-do-Numero-Secreto) | Jogo simples para adivinhar um número aleatório | HTML, CSS, JS |
-| [📊 Dashboards Power BI](https://github.com/babramos/Dashboards-PowerBI) | Análises visuais de vendas e produção com Power BI | Power BI |
-| [💻 Projetos em C](https://github.com/babramos/Projetos-em-C) | Programas básicos para lógica, como adivinhação e tabuada | C |
-
----
 
 ## 📈 Em Aprendizado
 
