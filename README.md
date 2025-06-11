@@ -4,11 +4,9 @@
   </a>
 </div>
 
-🎯 Profissional com sólida experiência em saneamento e operações, atualmente em transição para **Tecnologia da Informação**, com foco em **programação** e **análise de dados**.
-
 ---
 
-## 🧑‍💼 Sobre mim
+**🧑‍💼 Sobre mim**
 
 - 💧 Trabalho na **Sabesp** há mais de 13 anos, com ampla vivência em operação, manutenção, almoxarifado, frota e gestão administrativa.
 - 💻 Estudando **Desenvolvimento Web** (HTML, CSS, JavaScript) e **Linguagem C**.
@@ -17,7 +15,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+ **🛠️ Tecnologias e Ferramentas**
 
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Linguagens**: C, JavaScript, Python
@@ -26,7 +24,6 @@
 
 ---
 
-
 <div>
   <a href="https://github.com/babramos">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=babramos&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -34,7 +31,8 @@
   </a>
 </div>
 
-##
+---
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -43,7 +41,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
-##
+---
+
 <div> 
   <a href="mailto:babramos21@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
