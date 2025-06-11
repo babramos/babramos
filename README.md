@@ -23,33 +23,9 @@
 ---
 
 
-## 📈 Em Aprendizado
-
-- JavaScript Avançado
-- Git e versionamento
-- SQL para análise de dados
-- Lógica de programação com algoritmos
-- Python com IA (OpenAI e automações)
-
----
-
-## 📫 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/babramos)
-- 📧 babramos21@gmail.com
-- 🌐 [Meu GitHub](https://github.com/babramos)
-
----
-
-Obrigado por visitar meu perfil! 🚀
-
-
-## 📫 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/babramos)
-- 📧 babramos21@gmail.com
-- 🌐 [Meu GitHub](https://github.com/babramos)
-
----
-
-Obrigado por visitar meu perfil! 🚀
+<div>
+  <a href="https://github.com/babramos">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=babramos&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babramos&layout=compact&langs_count=7&theme=highcontrast"/>
+  </a>
+</div>
